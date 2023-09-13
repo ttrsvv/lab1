@@ -1,0 +1,30 @@
+#include <iostream>
+#include <stdlib.h>
+using namespace std;
+
+int main()
+{
+    cout << "Draw a square using 'cout' input:" << endl ; //код для програми номер 3
+    cout << "      ____________________" << endl;
+    cout << "     |                    |" << endl;
+    cout << "     |                    |" << endl;
+    cout << "     |                    |" << endl;
+    cout << "     |                    |" << endl;
+    cout << "     |                    |" << endl;
+    cout << "     |                    |" << endl;
+    cout << "     |                    |" << endl;
+    cout << "     |                    |" << endl;
+    cout << "     |                    |" << endl;
+    cout << "      ____________________" << endl <<endl <<endl;
+    cout << "HELLO!!!" << endl << endl << endl; //код для програми номер 1
+    setlocale(LC_ALL, "Ukrainian"); //код для програми номер 3
+    cout << "           Прiзвище : Tarasova" << endl;
+    cout << "               Iм`я : Anna" << endl;
+    cout << "              Стать : жiноча" << endl;
+    cout << "    Дата народження : 2005-08-21" << endl;
+    cout << "             Адреса : Ukraine, Dnipro" << endl;
+    cout << "     Номер телефону : +380 50 874 0701" << endl;
+    cout << "     Мiсце навчання : ФПМ, ДНУ iм. Олеся Гончара" << endl;
+    cout << "              Група : ПА-22" << endl;
+
+}
