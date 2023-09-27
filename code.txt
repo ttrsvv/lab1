@@ -27,6 +27,7 @@ int main()
     cout << "     Мiсце навчання : ФПМ, ДНУ iм. Олеся Гончара" << endl;
     cout << "              Група : ПА-22" << endl;
     cout << "              Хоббi : танцi, читання" << endl;
+    system ("pause");
 }
 
 
